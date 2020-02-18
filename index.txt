@@ -6,8 +6,8 @@
 		<h1>
 			Very cool text
 		</h1>
-		<div>
-			Text
-		</div>
+		<p>
+			We no need no div container
+		</p>
 	</body>
 </html>
